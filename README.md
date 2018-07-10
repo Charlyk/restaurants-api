@@ -10,7 +10,7 @@ Parameters:
 
 > `lat`: latitude as floating number
 >
-> `longitude`: longitude as floating number
+> `lng`: longitude as floating number
 >
 > `radius`: desired distance to the restaurant
 
