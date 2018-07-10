@@ -1,4 +1,4 @@
-# Restayrants API documentation
+# Restaurants API documentation
 
 #### Update spoken languages and location
 
